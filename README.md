@@ -1,1 +1,1 @@
-# musicLibraryReact
+# music-library-front-end
